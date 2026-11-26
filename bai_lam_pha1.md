@@ -61,6 +61,13 @@ Chính xác, khách quan, ngắn gọn. Không chào hỏi, giải thích, bình
 
 E - Extras (Định dạng đầu ra & ví dụ mẫu):
 Chỉ trả về duy nhất một mảng JSON hợp lệ (bắt đầu bằng [ và kết thúc bằng ]), không thêm bất kỳ chữ nào khác ngoài JSON.
+<tin_nhan>
+TN1: Cho mình 2 người lớn với 1 bé 10 tuổi học nặn gốm bằng tay ngày 13/12 nhé, ca chiều.
+
+TN2: Đặt 3 chỗ lớp bàn xoay ngày 10/01/2027 ạ. Một người bị đau cổ tay.
+
+TN3: Lớp vẽ gốm tháng 12 còn chỗ không ạ? Nhóm em 4 người lớn, một bạn đi xe lăn, học ca sáng.
+</tin_nhan>
 Hai ví dụ mẫu (Few-shot):
 
 Tin nhắn mẫu 1:
