@@ -68,6 +68,7 @@ TN2: Đặt 3 chỗ lớp bàn xoay ngày 10/01/2027 ạ. Một người bị đ
 
 TN3: Lớp vẽ gốm tháng 12 còn chỗ không ạ? Nhóm em 4 người lớn, một bạn đi xe lăn, học ca sáng.
 </tin_nhan>
+
 Hai ví dụ mẫu (Few-shot):
 
 Tin nhắn mẫu 1:
